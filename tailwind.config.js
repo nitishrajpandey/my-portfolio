@@ -17,6 +17,7 @@ export default {
       ss: "620px",
       ssm: "768px",
       sm: "852px",
+      smm: "930px",
       md: "1060px",
       lg: "1200px",
       xl: "1700px",

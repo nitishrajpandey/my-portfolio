@@ -11,16 +11,20 @@
 }
 
 body {
-    background-color: red;
+    background-color: #090917;
 }
 
 
 
  /* all fonts  */
-.font_poppins {
+/* .font_poppins {
 font-family: Poppins;
 font-weight: 800;
+} */
+
+
+
+.button-style{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
-
-
 
